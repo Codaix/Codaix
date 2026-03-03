@@ -4,7 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codaix&label=Profile%20views&color=0e75b6&style=flat" alt="codaix" /> </p>
 
 
+- Data Enthusiast | Python • SQL • Data Processing • Analytics Pipelines.
+  
 - I’m currently working on [Java Simulation](https://github.com/Codaix/LW_JGL_Project)
+
+- Currently building data-driven systems and exploring scalable data processing workflows.
 
 - I’m currently learning **Machine Learning Algorithms, Compititve programming, Simulation in java**
 
