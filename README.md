@@ -24,6 +24,14 @@
 
 - ⚡ Fun fact **I see patterns everywhere - even outside datasets.**
 
+  ## 🚀 Featured Project
+
+### ML-Based Respiratory Data Processing Pipeline
+Designed a data preprocessing and transformation workflow for respiratory health datasets involving cleaning, feature engineering, and structured dataset creation for predictive analysis.
+
+Tech: Python, Pandas, NumPy, SQL
+Focus: Data Cleaning • Transformation • Pipeline Design
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pranav54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav54" height="30" width="40" /></a>
